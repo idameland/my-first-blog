@@ -1,4 +1,4 @@
 def hi(name):
-    print('Hi ' + name + '!')
+    print('Hi' + name + '!')
 
 hi("Rachel")
